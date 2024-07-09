@@ -200,8 +200,20 @@ footer .fa-whatsapp{
     padding: 40px 0;
 }
 
-#idiomas .card-idioma {
-    border-radius: 15px;
+#idiomas .card-idioma{
+    border-radius: 15px !important;
+}
+
+#idiomas h2{
+    font-size: 16px;
+    font-weight: 600px;
+}
+
+#idiomas ul{
+    padding: 0px;
+    font-size: 14px;
+    color: #282828;
+    list-style-type: none;
 }
 
 .proyecto{
